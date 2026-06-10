@@ -22,7 +22,7 @@ const db = firebase.firestore();
 
 // Configuración rápida
 const CONFIG = {
-  address: "Av. Ejemplo 123, San José, Costa Rica",
+  address: "Calle Tulipanes casa #42, Curridabat.",
   timeSlots: ["08:00","09:00","10:00","11:00","13:00","14:00","15:00","16:00","17:00"],
   daysOff: [],
   workDays: [1,2,3,4,5,6],
